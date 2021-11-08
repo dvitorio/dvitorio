@@ -8,6 +8,8 @@
 
 ![Daniel Vitorio stats](https://github-readme-stats.vercel.app/api?username=dvitorio&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvitorio&langs_count=8)](https://github.com/dvitorio/github-readme-stats)
+
 
 ### Tecnologias que mais utilizo
 
