@@ -25,4 +25,4 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
-### Acessem o site https://danielvitoriofrontend.netlify.app e conheça mais sobre mim e meus projetos
+### Acessem o site https://danielvitoriofrontend.netlify.app e saibam mais sobre mim e meus projetos
