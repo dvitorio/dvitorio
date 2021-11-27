@@ -1,4 +1,4 @@
-## Olá, programadores, analistas, desenvolvedores e demais companheiros de TI!
+## Olá, programadores, analistas de sistemas, desenvolvedores e demais companheiros de TI!
 
 #### Meu nome é Daniel Vitorio e trabalho como desenvolvedor front end e entusiasta de Java e MySQL. Curto muito o back end, mas atualmente estou mais focado no desenvolvimento front end e suas diversas tecnologias. ✋
 
