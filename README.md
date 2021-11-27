@@ -1,6 +1,6 @@
-## Olá, comunidade de Tecnologia e amigos DEVs!
+## Olá, programadores, analistas, desenvolvedores e demais companheiros de TI!
 
-#### Sou Daniel Vitorio e atualmente trabalho como pesquisador front end na Ford Motor Company. Curto muito o back end, mas atualmente estou mais focado no desenvolvimento front end. ✋
+#### Meu nome é Daniel Vitorio e trabalho como desenvolvedor front end e entusiasta de Java e MySQL. Curto muito o back end, mas atualmente estou mais focado no desenvolvimento front end e suas diversas tecnologias. ✋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielvitorio/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://dvitorio2@gmail.com/)
