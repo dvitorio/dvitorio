@@ -1,6 +1,6 @@
 ## Olá, programadores, analistas de sistemas, desenvolvedores e demais companheiros de TI!
 
-#### Meu nome é Daniel Vitorio e trabalho como desenvolvedor front end e entusiasta de Java e MySQL. Curto muito o back end, mas atualmente estou mais focado no desenvolvimento front end e no aprendizado, aperfeiçoamento e utilização de suas diversas tecnologias. No momento, estou focado em aprender e focar nos estudos de Angular.✋
+#### Meu nome é Daniel Vitorio e trabalho como desenvolvedor front end e entusiasta de Java e MySQL. Curto muito o back end, mas atualmente estou mais focado no desenvolvimento front end e no aprendizado, aperfeiçoamento e utilização de suas diversas tecnologias e frameworks. No momento, estou focado em aprender e focar nos estudos de Angular.✋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielvitorio/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://dvitorio2@gmail.com/)
