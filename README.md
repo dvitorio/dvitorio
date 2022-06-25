@@ -1,3 +1,5 @@
+#Desenvolvedor front end
+
 ## Olá, comunidade DEV!
 
 #### Meu nome é Daniel Vitorio e trabalho como desenvolvedor front end e entusiasta de Javascript, Java e MySQL. Curto muito o back end, mas atualmente estou mais focado no desenvolvimento front end e no aprendizado, aperfeiçoamento e utilização de suas diversas tecnologias e frameworks. No momento, estou focado em aprender e focar nos estudos de Spring e React JS.✋
