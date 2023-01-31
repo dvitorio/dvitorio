@@ -1,8 +1,8 @@
 #Desenvolvedor front end
 
 ## Olá, comunidade DEV!
-
-#### Meu nome é Daniel Vitorio, sou formado em Administração, licenciado em Matemática e atualmente estou em transição de carreira para a área de TI, concluindo o curso de Análise e Desenvolvimento de Sistemas. Atuo no desenvolvimento front end e sou entusiasta de Javascript e suas tecnologias. Curto muito o back end, mas atualmente estou mais focado no desenvolvimento front end e no aprendizado, aperfeiçoamento e utilização de suas diversas tecnologias e frameworks. No momento, estou focado em aprender e focar nos estudos de Spring e React JS.✋
+rece
+#### Meu nome é Daniel Vitorio, sou formado em Administração, licenciado em Matemática e graduado em Análise e Desenvolvimento de Sistemas. Atuo no desenvolvimento front end e sou entusiasta de Javascript e suas tecnologias. Curto muito o back end, mas atualmente estou mais focado no desenvolvimento front end e no aprendizado, aperfeiçoamento e utilização de suas diversas tecnologias e frameworks. No momento, estou focado em aprender e focar nos estudos de Spring e React JS.✋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielvitorio/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://dvitorio2@gmail.com/)
